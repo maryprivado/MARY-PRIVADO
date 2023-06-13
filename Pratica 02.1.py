@@ -1,0 +1,16 @@
+nome= input('digete seu nome:')
+print('ola,' + nome+ '!')
+mj= float(input( 'digite o primeiro numero: '))
+kl= float(input(' digite o sugundo numero: '))
+soma= mj+ kl
+sub= mj - kl
+mult= mj * kl
+divi= mj /kl
+
+
+
+
+print('o resultado de soma é:', soma)
+print('o resultado de sub é:', sub)
+print('o rsultado da mult é:', mult)
+print('o resultado de divi é:', divi)
